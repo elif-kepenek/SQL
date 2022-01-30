@@ -1,1 +1,62 @@
 # SQL UYGULAMALARI
+
+## İçerikler
+
+### 01_UYGULAMA
+* SELECT
+* FROM
+* WHERE
+* AND
+* OR
+
+### 02_UYGULAMA
+* IN
+
+### 03_UYGULAMA
+* LIKE
+* ILIKE
+
+### 04_UYGULAMA
+* DISTINCT
+
+### 05_UYGULAMA
+* ORDER BY
+* ASC
+* DESC
+* LIMIT
+
+### 06_UYGULAMA
+* COUNT
+* MAX
+* MIN
+* AVG
+
+### 07_UYGULAMA
+* GROUP BY
+* HAVING
+
+### 08_UYGULAMA
+* CREATE
+* UPDATE
+* DELETE
+
+### 09_UYGULAMA
+* INNER JOIN
+
+### 10_UYGULAMA
+* LEFT JOIN
+* RIGHT JOIN
+* FULL JOIN
+
+### 11_UYGULAMA
+* UNION
+* INTERSECT
+* EXCEPT
+* UNION ALL
+* INTERSECT ALL
+* EXCEPT ALL
+
+### 12_UYGULAMA
+* ALT SORGULAR
+
+> [Bu çalışmada kullandığım veritabanına burdan ulaşabilirsiniz.](https://github.com/elif-kepenek/SQL/tree/main/00_database)
